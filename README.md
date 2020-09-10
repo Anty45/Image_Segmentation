@@ -1,5 +1,5 @@
 # Image_Segmentation
-Implementation de U-NET pour la segmentation d'images
+Implementation de U-NET pour la détection de bacterie observées au microscope
 
 *Le but d'une segmentation d'images est de répérer les formes de différents objets sur une image*
 Nous implémentons From Scratch le réseau U-NET dont l'architecture neuronalle peut être observé ici :
